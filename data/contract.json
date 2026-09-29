@@ -1,0 +1,14 @@
+{
+  "project_name": "Bengaluru Urban Road Improvement Project",
+  "contract_id": "BURIP-2026-014",
+  "original_cost": 50000000,
+  "original_duration_days": 365,
+  "contractor": "Apex Infra Projects Pvt. Ltd.",
+  "material": "M40 concrete pavement",
+  "scope": "Construction and resurfacing of 12 km urban road corridor",
+  "current_cost": 50000000,
+  "current_duration_days": 365,
+  "current_contractor": "Apex Infra Projects Pvt. Ltd.",
+  "current_material": "M40 concrete pavement",
+  "current_scope": "Construction and resurfacing of 12 km urban road corridor"
+}
