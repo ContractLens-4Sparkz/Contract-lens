@@ -1,0 +1,56 @@
+[
+  {
+    "date": "2026-04-15",
+    "title": "Statutory price revision",
+    "description": "Material input prices were revised following a documented statutory price-index adjustment.",
+    "changes": {
+      "cost": 52500000
+    },
+    "rationale": {
+      "reason": "Contractual price-adjustment clause and published price index revision.",
+      "evidence": "Clause 14.2 + Price Index Circular PI/2026/04",
+      "supported": true
+    }
+  },
+  {
+    "date": "2026-06-10",
+    "title": "Authority-related schedule extension",
+    "description": "Work was extended after utility shifting was delayed by the authority.",
+    "changes": {
+      "duration_days": 410
+    },
+    "rationale": {
+      "reason": "Utility relocation was not completed within the planned handover window.",
+      "evidence": "Site instruction SI-118 + Utility shifting report dated 2026-06-04",
+      "supported": true
+    }
+  },
+  {
+    "date": "2026-07-22",
+    "title": "Material specification change",
+    "description": "A revised pavement specification was introduced for part of the corridor.",
+    "changes": {
+      "material": "M35 concrete pavement"
+    },
+    "rationale": {
+      "reason": "Amendment refers to field conditions, but supporting technical approval is not attached.",
+      "evidence": "Amendment A-03; technical approval document not found",
+      "supported": false
+    }
+  },
+  {
+    "date": "2026-08-18",
+    "title": "Scope and contractor variation",
+    "description": "A portion of the remaining work was reassigned and the scope was adjusted.",
+    "changes": {
+      "cost": 56500000,
+      "contractor": "Apex Infra Projects Pvt. Ltd. + Delta Civil Works",
+      "scope": "Construction and resurfacing of 12 km corridor with drainage improvements on 2 km"
+    },
+    "rationale": {
+      "reason": "Additional drainage work was requested after site inspection.",
+      "evidence": "Site inspection note SIN-44; procurement approval for subcontracted works not attached",
+      "supported": false
+    }
+  }
+]
